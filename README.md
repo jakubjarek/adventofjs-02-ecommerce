@@ -1,7 +1,8 @@
+# [Live preview](https://jakubjarek.github.io/adventofjs-02-ecommerce/)
+
 - Styles and markup from [Advent of JS](https://www.adventofjs.com/). Some minor changes were added due to dynamiclly generating the menu
 - Starter files come unresponsive. Works only on a desktop.
 - app.js fully written by me
-  
 
 # Brief
 
